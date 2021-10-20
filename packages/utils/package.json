@@ -1,0 +1,12 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "echo 123"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.7"
+  }
+}
